@@ -1,0 +1,45 @@
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\obj\Debug\Okta Session Master.csprojResolveAssemblyReference.cache
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\obj\Debug\OktaSessionMaster.SL.Environment.resources
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\obj\Debug\OktaSessionMaster.SL.Properties.Resources.resources
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\obj\Debug\Okta Session Master.csproj.GenerateResource.Cache
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\obj\Debug\Okta Session Master.csproj.CoreCompileInputs.cache
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Okta Session Master.exe.config
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Okta Session Master.exe
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Okta Session Master.pdb
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Utilities.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Utilities.pdb
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\obj\Debug\Okta Session Master.exe
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\obj\Debug\Okta Session Master.pdb
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.Interactive.Async.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\FlexibleConfiguration.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.ValueTuple.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.IO.FileSystem.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\YamlDotNet.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Utilities.dll.config
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.Interactive.Async.xml
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\YamlDotNet.xml
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.Net.Http.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.AppContext.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.Console.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.IO.Compression.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.Net.Sockets.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\andrei.hava\Documents\Git\okta-sessionmaster-net461\Okta Session Master\bin\Debug\Microsoft.Extensions.Logging.xml
